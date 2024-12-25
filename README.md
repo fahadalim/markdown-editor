@@ -57,9 +57,5 @@ The live HTML preview will be displayed in the pane on the right.
 Features
 
 Real-time Markdown to HTML conversion.
-
 Responsive interface built with React.
-
 Stateless backend using Node.js.
-
-Troubleshooting
